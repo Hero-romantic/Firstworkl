@@ -1,0 +1,81 @@
+.top5{
+  width: 100%;
+  height: 40px;
+  background-color:#0085FB;
+  position: relative;
+  top:35px;
+}
+.top5_1{
+  width:900px;
+  margin-left: 275px;
+}
+.top5_1 li{
+  float:left;
+  line-height: 33px;
+  margin-right: 25px;
+}
+.top5_1 a{
+  font-size:16px;
+  color:white;
+  font-family: 宋体;
+}
+
+.mav_1{
+position: absolute;
+  top: 42px;
+}
+.mav_2{
+font-family: 黑体;
+  font-size: 20px;
+  float: left;
+  position: relative;
+  left:270px;
+  top: 10px;
+
+}
+.mav_2a:blank{
+  color:red;
+}
+.mav_3{
+  width: 780px;
+  height: 0.9px;
+  float:left;
+  background-color: #0085FB;
+  position:relative;
+  left:190px;
+  top:43px;
+}
+.mav_3a{
+  clear: both;
+  width:219px;
+  float:left;
+  position: relative;
+  left:190px;
+  top:10px;
+  font-family:宋体;
+}
+.mav_3aa{
+  font-family:新宋体;
+}
+.news{
+  clear: both;
+  width: 200px;
+  float:left;
+  position:relative;
+  left:300px;
+  top:10px;
+}
+.picture{
+  position: relative;
+  left:1000px;
+}
+.picturef{
+  width:100%;
+  height: 100px;
+  background-color: #0085FB;
+  /*相对定位*/
+  position: relative;
+  top: 500px;
+}
+
+
